@@ -18,11 +18,11 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center space-y-8 animate-fade-in">
         <div className="inline-block px-4 py-2 glass-card rounded-full text-sm font-medium text-primary mb-4">
-          18+ Members Only
+          21+ Members Only
         </div>
         
         <h1 className="font-display text-5xl md:text-7xl font-bold leading-tight">
-          Experience Calgary's <br />
+          Experience Indiana's <br />
           <span className="gradient-text">Premier Lifestyle Club</span>
         </h1>
 
